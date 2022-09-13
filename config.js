@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 owner = [
-  ['62895330379186'],
-  ['62895330379186'],
-  ['62895330379186', 'Owner', true]
+  ['6288290336559'],
+  ['6288290336559'],
+  ['6288290336559', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
@@ -24,7 +24,7 @@ APIs = { // API Prefix
   restapi: 'https://x-restapi.herokuapp.com'
 }
 APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://api.zeeoneofc.xyz': 'SLDNgBub'
   'https://api.xteam.xyz': 'apikeyaine',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.neoxr.eu.org/': 'jVEMyB2ITJ',
